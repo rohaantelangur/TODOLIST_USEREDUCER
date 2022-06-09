@@ -1,4 +1,6 @@
  ### `Sample Output:`
+ ![Screenshot (128)](https://user-images.githubusercontent.com/94789421/172758090-1b91f789-892f-4d41-b42d-b85f40eb69b6.png)
+
 
 # Getting Started with Create React App
 
